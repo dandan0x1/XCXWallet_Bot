@@ -16,6 +16,9 @@ Join XCXWallet and earn XCXW Tokens!
 
 🌐从这里开始：https://t.me/XCXWalletbot
 
+# Token获取教程
+
+<img width="1238" height="1095" alt="token-2" src="https://github.com/user-attachments/assets/2afc9e78-689b-4743-b98a-5dc44d0eb8f9" />
 
 
-
+<img width="1137" height="530" alt="token-1" src="https://github.com/user-attachments/assets/38475b25-a8ba-4a60-9ecd-0a304149078d" />
